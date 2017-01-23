@@ -1,0 +1,18 @@
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Release\FP Converter.exe.config
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Release\FP Converter.exe
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Release\FP Converter.pdb
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP Converter.csprojResolveAssemblyReference.cache
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP_Converter.Form1.resources
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP_Converter.Properties.Resources.resources
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP Converter.csproj.GenerateResource.Cache
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP Converter.exe
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Release\FP Converter.pdb
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\bin\Release\FP Converter.exe.config
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP Converter.exe
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP Converter.pdb
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\bin\Release\FP Converter.exe
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\bin\Release\FP Converter.pdb
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP Converter.csprojResolveAssemblyReference.cache
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP_Converter.Form1.resources
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP_Converter.Properties.Resources.resources
+C:\Data\Projects\FP Auto video Converter\FP Converter\FP Converter\obj\Release\FP Converter.csproj.GenerateResource.Cache

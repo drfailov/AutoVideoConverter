@@ -1,0 +1,9 @@
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Debug\FP Converter.exe.config
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Debug\FP Converter.exe
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\bin\Debug\FP Converter.pdb
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP Converter.csprojResolveAssemblyReference.cache
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP_Converter.Form1.resources
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP_Converter.Properties.Resources.resources
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP Converter.csproj.GenerateResource.Cache
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP Converter.exe
+C:\Users\Dr. Failov\Desktop\FP Converter\FP Converter\FP Converter\obj\Debug\FP Converter.pdb
